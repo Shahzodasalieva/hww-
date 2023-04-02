@@ -1,0 +1,138 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.blok1{
+    position: relative;
+   
+   width: 200px;
+   height: 200px;
+   right: 0%;
+}
+.box1{
+    height:150px;
+    width: 150px;
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    border-top: 2px solid red;
+    border-left: 2px solid red;
+   
+}
+.box2{
+    background-color: blue;
+    border: 2px solid red;
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 70px;
+    top: 70px;
+
+z-index: 1;
+}
+.box3{
+   
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 80px;
+    top: 80px;
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+}
+.box4{
+    height:150px;
+    width: 150px;
+    position: absolute;
+    left: 600px;
+    top: 60px;
+    border-top: 2px solid red;
+    border-left: 2px solid red;
+   
+}
+.box5{
+    background-color: blue;
+    border: 2px solid red;
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 610px;
+    top: 70px;
+
+z-index: 1;
+}
+.box6{
+   
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 620px;
+    top: 80px;
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+}
+.box7{
+    height:150px;
+    width: 150px;
+    position: absolute;
+    left: 600px;
+    top:260px;
+    border-top: 2px solid red;
+    border-left: 2px solid red;
+   
+}
+.box8{
+    background-color: blue;
+    border: 2px solid red;
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 610px;
+    top: 270px;
+
+z-index: 1;
+}
+
+.box9{
+   
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 620px;
+    top: 280px;
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+}
+
+.box01{
+    height:150px;
+    width: 150px;
+    position: absolute;
+    left: 350px;
+    top:170px;
+    border-top: 2px solid red;
+    border-left: 2px solid red;
+   
+}
+.box02{
+    background-color: blue;
+    border: 2px solid red;
+    position: absolute;
+    height: 150px;
+    width: 150px;
+    left: 360px;
+    top: 180px;
+
+z-index: 1;
+}
+.box03{
+   
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 370px;
+    top: 190px;
+    border-right: 2px solid red;
+    border-bottom: 2px solid red;
+}
